@@ -9,7 +9,7 @@ After printing is complete, the file is deleted from the files folder.
 
 1. **Clone the repository:**
 ```bash
-git clone https://[your-github-repository-url].git
+git clone https://github.com/alessandro-feitosa/api-printer.git
 ```
 2. **Install dependencies**
 ```bash
